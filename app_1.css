@@ -3808,7 +3808,7 @@ nav.wp-calendar-nav {
   width: 132px;
   height: 134px;
   padding: 0 1px 4px;
-  background: url("../images/cp-bg.png") 0 0 no-repeat;
+  background: url("cp-bg.png") 0 0 no-repeat;
   display: block;
   overflow: hidden;
   margin: 0 auto;
@@ -3823,7 +3823,7 @@ nav.wp-calendar-nav {
   height: 130px;
   clip: rect(0px, 65px, 130px, 0px);
   border-radius: 52px;
-  background: url("../images/cp-progress.png") 0 0 no-repeat;
+  background: url("cp-progress.png") 0 0 no-repeat;
 }
 
 .cp-progress-holder,
@@ -3854,7 +3854,7 @@ nav.wp-calendar-nav {
   text-indent: -9999px;
   z-index: 0;
   cursor: pointer;
-  background: url(../images/cp-controls.png) 0 0 no-repeat;
+  background: url(cp-controls.png) 0 0 no-repeat;
   margin: 45px auto 5px;
 }
 
@@ -3924,16 +3924,16 @@ ul.cp-controls {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi) {
   .cp-wrap {
-    /* background-image: url(../images/cp-bg-x2.png); */
+    /* background-image: url(cp-bg-x2.png); */
     background-size: 132px auto;
   }
   .cp-progress-1,
 .cp-progress-2 {
-    background-image: url(../images/cp-progress-x2.png);
+    background-image: url(cp-progress-x2.png);
     background-size: 130px auto;
   }
   .cp-controls li a {
-    background-image: url(../images/cp-controls-x2.png);
+    background-image: url(cp-controls-x2.png);
     background-size: 36px auto;
   }
 }
@@ -4041,11 +4041,11 @@ ul.cp-controls {
 }
 
 .bg-image-note4 {
-  background-image: url(../images/bg-note4.png);
+  background-image: url(bg-note4.png);
 }
 
 .bg-image-note4 {
-  background-image: url(../images/bg-note4-x2.png);
+  background-image: url(bg-note4-x2.png);
   background-size: 143px auto;
   background-repeat: no-repeat;
   background-position: center center;
